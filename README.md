@@ -1,6 +1,18 @@
-### Planning-and-Development-Code-Violations-Scottsdale
+## Planning-and-Development-Code-Violations-Scottsdale
 
 The City of Scottsdale publishes a [dataset](http://data.scottsdaleaz.gov/dataset/planning-and-development-code-violations)* that includes closed planning and development cases for one rolling year, updated weekly.  One of the characteristics that interests me about this dataset is that it includes the GIS coordinates of where the violations are located.  With both "open" and "close" dates for violations, this dataset creates a good oportunity to perform time series analysis
+
+### How does the volume of cases opened and closed compare from day to day?
+![](https://github.com/mrkjhsn/Planning-and-Development-Code-Violations-Scottsdale/blob/master/visualizations/Cases%20Opened%20%26%20Closed%20by%20Day%20of%20the%20Year.png)
+
+### How does the volume of cases opened and closed compare from month to month?
+![](https://github.com/mrkjhsn/Planning-and-Development-Code-Violations-Scottsdale/blob/master/visualizations/Cases%20Opened%20%26%20Closed%20by%20Month%20of%20the%20Year.png)
+
+
+
+
+
+
 
 #### To Investigate:
 
