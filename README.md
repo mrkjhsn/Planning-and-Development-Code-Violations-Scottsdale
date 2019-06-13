@@ -1,6 +1,7 @@
 ## Planning-and-Development-Code-Violations-Scottsdale
 
 The City of Scottsdale publishes a [dataset](http://data.scottsdaleaz.gov/dataset/planning-and-development-code-violations)* that includes closed planning and development cases for one rolling year, updated weekly.  One of the characteristics that interests me about this dataset is that it includes the GIS coordinates of where the violations are located.  With both "open" and "close" dates for violations, this dataset creates a good oportunity to perform time series analysis
+___
 
 #### How does the volume of cases opened and closed compare from day to day?
 ![](https://github.com/mrkjhsn/Planning-and-Development-Code-Violations-Scottsdale/blob/master/visualizations/Cases%20Opened%20%26%20Closed%20by%20Day%20of%20the%20Year.png)
@@ -20,7 +21,8 @@ The City of Scottsdale publishes a [dataset](http://data.scottsdaleaz.gov/datase
 #### For the second highest category of violation(18-5 PUBLIC NUISANCE), what are the top 5 violation codes?  How do those track across the year?
 ![](https://github.com/mrkjhsn/Planning-and-Development-Code-Violations-Scottsdale/blob/master/visualizations/Top%205%20PUBLIC%20NUISANCE%20Cases%20Opened%20by%20Month%20of%20the%20Year.png)
 
-#### The biggest driver of case volume seems to be landscaping(grass too long, dead shrub, ect.) and tracks consistently with periods of rain, and lack therof throughout the year.  For a full analysis take a look at the [Jupyter Notebook](https://github.com/mrkjhsn/Planning-and-Development-Code-Violations-Scottsdale/blob/master/Code_Violations_Annual_Trends.ipynb).
+#### The biggest driver of case volume seems to be landscaping(grass too long, dead shrub, ect.) and tracks consistently with periods of rain, and lack therof throughout the year.  For a full analysis take a look at my analysis in this [Jupyter Notebook](https://github.com/mrkjhsn/Planning-and-Development-Code-Violations-Scottsdale/blob/master/Code_Violations_Annual_Trends.ipynb).
+___
 
 #### To investigate further:
 
