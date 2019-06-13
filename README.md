@@ -5,14 +5,22 @@ ___
 
 
 How does the volume of cases opened and closed compare from day to day?
-![](https://github.com/mrkjhsn/Planning-and-Development-Code-Violations-Scottsdale/blob/master/visualizations/Cases%20Opened%20%26%20Closed%20by%20Day%20of%20the%20Year.png)  
+![](https://github.com/mrkjhsn/Planning-and-Development-Code-Violations-Scottsdale/blob/master/visualizations/Cases%20Opened%20%26%20Closed%20by%20Day%20of%20the%20Year.png)
+
+
 
 
 There is a high level of variability from day to day.  For a more general trendline, how does the volume of cases opened and closed compare from month to month?
 ![](https://github.com/mrkjhsn/Planning-and-Development-Code-Violations-Scottsdale/blob/master/visualizations/Cases%20Opened%20%26%20Closed%20by%20Month%20of%20the%20Year.png)
 
+
+
+
 Although the volume of violations tracks quite closely, why is there a spike between August and November?  Does any specific violation category contribute most to the spike at this time of year?
 ![](https://github.com/mrkjhsn/Planning-and-Development-Code-Violations-Scottsdale/blob/master/visualizations/Cases%20Opened%20by%20Month%20of%20the%20Year%20-%20Top%205%20Violation%20Categories.png)
+
+
+
 
 How does the trend for cases closed track among the top 5 violation categories?
 ![](https://github.com/mrkjhsn/Planning-and-Development-Code-Violations-Scottsdale/blob/master/visualizations/Cases%20Closed%20by%20Month%20of%20the%20Year%20-%20Top%205%20Violation%20Categories.png)
