@@ -5,8 +5,6 @@ ___
 #### To investigate further:
 1. How are various code violations geographically distributed throughout the city?
 3. Based on different types of violations, what is the difference in time between when a complaint is received and when it is closed?  What does this say about how different sorts of code violations are enforced?
-___
-<br/>
 <br/>
 <br/>
 <br/>
