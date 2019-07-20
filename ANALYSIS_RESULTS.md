@@ -58,7 +58,7 @@ Process:  I found the mean longitude and latitude coordinates for each code viol
 <br/>
 
 ![](https://github.com/mrkjhsn/Planning-and-Development-Code-Violations-Scottsdale/blob/master/visualizations/Top%205%20PUBLIC%20NUISANCE%20Cases%20Opened%20by%20Month%20of%20the%20Year.png)
-#### Above:  18-5(11) are code violations due to "Plant growth or any other condition, sign, structure, vehicle or watercraft that obstructs or interferes with or renders dangerous the use or passage of any public place, stream or water course."  It's unclear to me why the quantities of this violation are so elevated for the months of June and October.  It's interesting that plant growth is covered under this code violation, as well as Section 18-9 above.
+#### Above:  18-5(11) are code violations due to "Plant growth or any other condition, sign, structure, vehicle or watercraft that obstructs or interferes with or renders dangerous the use or passage of any public place, stream or water course."  It's unclear to me why the quantities of this violation are so elevated for the months of June and October.  It's interesting that plant growth is covered under this code violation, as well as Section 18-9 above.  It's possible this is more of a catch all code for plant violations that don't fit into 18-9.
 <br/>
 <br/>
 <br/>
