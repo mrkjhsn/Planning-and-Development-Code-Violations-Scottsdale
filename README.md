@@ -1,6 +1,6 @@
 ## Planning-and-Development-Code-Violations-Scottsdale
 
-The City of Scottsdale publishes a [dataset](http://data.scottsdaleaz.gov/dataset/planning-and-development-code-violations)* that includes closed planning and development cases for one rolling year, updated weekly.  One of the characteristics that interests me about this dataset is that it includes the GIS coordinates of where the violations are located.  With both "open" and "close" dates for violations, this dataset creates a good oportunity to perform time series analysis
+The City of Scottsdale publishes a city code violations [dataset](http://data.scottsdaleaz.gov/dataset/planning-and-development-code-violations)* that includes one rolling years worth of data, updated weekly.  One of the characteristics that interests me about this dataset is that it includes the GIS coordinates of where the violations are located.  With both "open" and "close" dates for violations, this dataset also creates a good oportunity to perform time series analysis
 ___
 #### To investigate further:
 1. How are various code violations geographically distributed throughout the city?
