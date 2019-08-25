@@ -43,6 +43,7 @@
 #### Above:  18-5(11) are code violations due to "Plant growth or any other condition, sign, structure, vehicle or watercraft that obstructs or interferes with or renders dangerous the use or passage of any public place, stream or water course."  It's unclear to me why the quantities of this violation are so elevated for the months of June and October.  It's interesting that plant growth is covered under this code violation, as well as Section 18-9 above.  It's possible this is more of a catch all code for plant violations that don't fit into 18-9.
 <br/>
 <br/>
+
 ### Overall, the biggest driver of case volume seems to be landscaping(grass too long, dead shrub, ect.) and tracks consistently with periods of rain, and lack of rain throughout the year.  For full details, take a look at my analysis in this [Jupyter Notebook](https://github.com/mrkjhsn/Planning-and-Development-Code-Violations-Scottsdale/blob/master/Code_Violations_Annual_Trends.ipynb).
 <br/>
 <br/>
